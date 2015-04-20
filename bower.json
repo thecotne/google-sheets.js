@@ -1,0 +1,27 @@
+{
+  "name": "google-sheets.js",
+  "version": "0.0.0",
+  "authors": [
+    "cotne nazarashvili <cotne.nazarashvili@gmail.com>"
+  ],
+  "main": "google-sheets.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "google",
+    "sheets"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "google-sheets.js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/google-sheets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "sheets"
+  ],
+  "author": "cotne nazarashvili <cotne.nazarashvili@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.13.0",
+    "reqwest": "^1.1.5",
+    "rx": "^2.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "^5.1.11",
+    "babel-loader": "^5.0.0",
+    "webpack": "^1.8.7"
+  }
+}
