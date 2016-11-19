@@ -13,13 +13,13 @@
   "author": "cotne nazarashvili <cotne.nazarashvili@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ramda": "^0.13.0",
-    "reqwest": "^1.1.5",
-    "rx": "^2.5.2"
+    "ramda": "^0.22.1",
+    "reqwest": "^2.0.5",
+    "rx": "^4.1.0"
   },
   "devDependencies": {
-    "babel-core": "^5.1.11",
-    "babel-loader": "^5.0.0",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
     "webpack": "^1.8.7"
   }
 }
